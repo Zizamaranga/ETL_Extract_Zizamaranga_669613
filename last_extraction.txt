@@ -1,0 +1,4 @@
+Last extraction: 70 rows, 5 columns
+Last extraction time: 2025-06-10 21:31:01
+Last extraction time: 2025-06-10 21:33:19
+Incremental extraction completed at: 2025-06-10 21:33:43
