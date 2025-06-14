@@ -3,3 +3,7 @@ __pycache__/
 *.log
 *.sqlite
 last_extraction.txt
+*.log
+*.csv
+__pycache__/
+
