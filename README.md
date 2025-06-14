@@ -19,3 +19,18 @@ This notebook demonstrates a basic ETL (Extract, Transform, Load) pipeline using
 
 1. Make sure you have Python and Jupyter Notebook installed to run.
 2. The data used is generated synthetically using python
+
+2. Transformation (New Updates)
+Today’s transformations include:
+
+Cleaning: Handling missing values and removing duplicate records.
+
+Enrichment: Adding calculated columns such as total_price = quantity * unit_price.
+
+Structural Adjustments: Standardizing date formats and ensuring correct data types.
+
+Both full and incremental datasets have been transformed and saved as:
+
+transformed_full.csv
+
+transformed_incremental.csv
